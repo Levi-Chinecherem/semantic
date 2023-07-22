@@ -4,7 +4,7 @@ This repository contains code for a particle animation that creates a mesmerizin
 
 ## Preview
 
-![Particle Animation Preview]([animation_preview.gif](https://github.com/Levi-Chinecherem/semantic/blob/master/sample.PNG))
+![animation_preview.gif](https://github.com/Levi-Chinecherem/semantic/blob/master/sample.PNG)
 
 ## How to Use
 
